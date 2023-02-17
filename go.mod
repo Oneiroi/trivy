@@ -21,12 +21,12 @@ require (
 	github.com/elazarl/goproxy v0.0.0-20200809112317-0581fc3aee2d // indirect
 	github.com/go-redis/redis/v8 v8.4.0
 	github.com/goccy/go-yaml v1.8.2 // indirect
-	github.com/golang/protobuf v1.4.3
+	github.com/golang/protobuf v1.5.2
 	github.com/google/go-containerregistry v0.1.2
 	github.com/google/go-github/v28 v28.1.1
 	github.com/google/wire v0.4.0
 	github.com/gopherjs/gopherjs v0.0.0-20200217142428-fce0ec30dd00 // indirect
-	github.com/hashicorp/go-getter v1.5.2
+	github.com/hashicorp/go-getter v1.7.0
 	github.com/huandu/xstrings v1.3.2 // indirect
 	github.com/knqyf263/go-apk-version v0.0.0-20200609155635-041fdbb8563f
 	github.com/knqyf263/go-deb-version v0.0.0-20190517075300-09fca494f03d
@@ -45,9 +45,9 @@ require (
 	github.com/twitchtv/twirp v5.10.1+incompatible
 	github.com/urfave/cli/v2 v2.3.0
 	go.uber.org/zap v1.16.0
-	golang.org/x/oauth2 v0.0.0-20201208152858-08078c50e5b5
-	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1
-	google.golang.org/protobuf v1.25.0
+	golang.org/x/oauth2 v0.1.0
+	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2
+	google.golang.org/protobuf v1.28.1
 	gopkg.in/check.v1 v1.0.0-20200902074654-038fdea0a05b // indirect
 	gopkg.in/go-playground/validator.v9 v9.31.0 // indirect
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
